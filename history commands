@@ -1,0 +1,23 @@
+ 1996  git --version
+ 1997  mkdir SEL-1
+ 1998  cd SEL-1
+ 1999  git init
+ 2000  ls
+ 2001  ls -a
+ 2002  git status
+ 2003  git log
+ 2004  git add 'SEL notes'
+ 2005  git status
+ 2006  git log
+ 2007  git config --global user.name "Samarjeet Wankhade"
+ 2008  git config --global user.email "jitesammy@gmail.com"
+ 2009  git status
+ 2010  git commit -m"initial commit and notes"
+ 2011  git status
+ 2012  git log
+ 2013  git remote add origin https://github.com/sam002239/gitDemo.git
+ 2014  git branch -M main
+ 2015  git branch
+ 2016  git push -u origin main
+ 2017  history
+
